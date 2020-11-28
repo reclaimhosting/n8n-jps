@@ -3,7 +3,7 @@ id: n8n
 name: n8n
 homepage: https://n8n.io/
 logo: images/n8n-logo.png
-baseUrl: https://raw.githubusercontent.com/reclaimhosting/n8n-jps/master
+baseUrl: https://raw.githubusercontent.com/reclaimhosting/n8n-jps/main
 
 categories: 
 - apps/dev-and-admin-tools
